@@ -76,5 +76,3 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 ---
 
-### 📈 GitHub Stats
-![lovelypoet's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovelypoet&show_icons=true&theme=default)
