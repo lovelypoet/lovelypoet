@@ -21,22 +21,22 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 ### 🔭 Current Research & Projects
 
-🎓 **Project: Knowledge Distillation for Edge AI (Thesis)**
+🎓 **Project: Knowledge Distillation for Edge Device in PCB Defect Classification (Thesis)**
 
-- **Goal:** Compress a PCB defect classification model for real-time inference on resource-constrained devices.
-- **Tech:** PyTorch, TensorFlow/Keras, TFLite, INT8 Quantization, NNAPI.
+- **Goal:** Compress a PCB defect classification model for real-time inference on resource-constrained edge devices.
+- **Tech:** PyTorch, TensorFlow/Keras, TensorFlowLite, INT8/Float32 Quantization, NNAPI, GradCam.
 - **Result:** 93.3% smaller (52.86MB → 3.52MB), ~22.5× faster inference, 86.2% accuracy (CV-verified, +7.4pp over no-KD).
 
-🥇 **Project: V-Hand — Silent Voix 2.0** *(1st Prize, APEC Innovation 2026)*
+🥇 **Project: V-Hand 2.0 — A smart glove for the deaf people - Silent Voix** *(1st Prize, APEC Innovation 2026)*
 
 - **Goal:** Real-time sign language recognition via wearable glove, 8 gesture classes.
-- **Tech:** ESP32-S3, MPU-6050 IMU, Flex Sensors, LSTM.
+- **Tech:** ESP32-S3, MPU-6050 IMU, Flex Sensors, LSTM model, embedded MLP model .
 - **Status:** 1+ year in development (since May 2025); deployed and demoed, exploring microsurgery applications (tremor cancellation, motion scaling).
 
 🌉 **Project: VBridge — Real-time VI↔EN Speech Translator**
 
 - **Goal:** On-device business meeting translator (VAD → ASR → MT → TTS), built for an Indonesian AI enterprise partner.
-- **Tech:** Whisper.cpp, NLLB-600M, Sequence-level Knowledge Distillation, ONNX Runtime, INT8 Quantization.
+- **Tech:** C++, Pytorch, TensorFlow/Keras, TensorFlowLite, Whisper.cpp, NLLB-600M, Sequence-level Knowledge Distillation, ONNX Runtime, INT8 Quantization.
 - **Result:** Compressed the NLLB-600M translation model down to 1.8GB via sequence-level KD + quantization.
 - **Status:** Built for Vietnam AI Innovation Challenge 2026.
 
@@ -44,7 +44,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 ### 💼 Experience
 
-🏭 **AOI Engineer, Foxconn** *(Internship, Apr–Jul 2026)*
+🏭 **AOI Engineer, Foxconn Industrial Internet Company** *1st globally in the AI server market* *(Internship, Apr – Jul 2026)* 
 
 - **Role:** Fine-tuned ML models on production AOI machines, repaired machines/conveyor systems, identified PCB defects on the line.
 - **Impact:** Direct inspiration for my thesis — saw firsthand what makes defect inspection hard to deploy at scale.
