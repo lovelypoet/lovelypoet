@@ -1,6 +1,6 @@
 ### Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me as my nick name "KemChan" :>> 👋
 
-🎯 **Machine Learning Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳
+🎯 **Machine Learning Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
 **1+ year of hands-on experience** building and shipping AI/ML/DL projects.
 
 I'm a fresh graduate who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?**
