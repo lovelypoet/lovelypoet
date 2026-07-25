@@ -40,6 +40,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 - **Result:** Compressed the NLLB-600M translation model down to 1.8GB via sequence-level KD + quantization.
 - **Status:** Built for Vietnam AI Innovation Challenge 2026.
 
+**Fact:** There are more projects that i have done,  and participated in, some did teach me a lot of lessons like [CVMultimodal: Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal), [Re:CNN](https://github.com/TommyDatLC/ReCNN) or [Car Crash: Turbo Drive.](https://github.com/TommyDatLC/Project-L),  however the 3 projects above are by far the ones that I am most proud of.
 ---
 
 ### 💼 Experience
