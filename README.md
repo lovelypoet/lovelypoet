@@ -1,12 +1,13 @@
 ### Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me as my nick name "KemChan" :>> 👋
 
 🎯 **Machine Learning Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳
+**1+ year of hands-on experience** building and shipping AI/ML/DL projects.
 
 I'm a fresh graduate who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?**
 
 That question has shaped everything I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — from a rough idea into a national 1st-place product, iterating on hardware, sensor fusion, and real-time inference the whole way. In parallel, my time as an **AOI Engineer at Foxconn** put me face-to-face with production-line PCB inspection — which became the seed for my thesis: compressing a defect-detection model **15× smaller** so it could run in real time on a phone.
 
-Two different problems, same instinct: I don't stop at "it works" — I care about making it fast, small, and shippable.
+Two different problems, same instinct: I don't stop at "it works" — I care about making it fast, small, and shippable
 
 **What I bring:**
 - 🗜️ Model compression & edge deployment — 15× smaller, 22× faster, minimal accuracy loss
@@ -58,7 +59,12 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 - **Languages:** `Python` (Advanced), `C++` (Intermediate)
 
 ---
+### 🗣️ Languages
 
+- 🇬🇧 English — IELTS 6.5
+- 🇫🇷 French — A2 ( un petit !!! )
+- 🇻🇳 Vietnamese — Native
+---
 ### 🏆 Achievements
 
 - 🥇 1st Prize, APEC Innovation National Competition 2026
