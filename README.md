@@ -1,4 +1,4 @@
-### 👋 Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me as my nick name "KemChan" :>> 👋
+### 👋 Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me by "David" 👋
 
 🎯 **Machine Learning Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
 **1+ year of hands-on experience** building and shipping AI/ML/DL projects.
