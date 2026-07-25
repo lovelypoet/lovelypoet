@@ -68,7 +68,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 ### 🏆 Achievements
 
 - 🥇 1st Prize, APEC Innovation National Competition 2026
- " Giải nhất cuộc thi APEC Innovation challenge toàn quốc 2026
+ " Giải nhất cuộc thi APEC Innovation challenge toàn quốc 2026"
 - 🎓 Consolation prize for USTH Reseach 2025
  " Giải khuyến khích cuộc thi Nghiên cứu khoa học USTH 2025"
 - Top 20 đội thi xuất sắc cuộc thi TechXpro Challenge 2025 by VinTech
