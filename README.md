@@ -29,7 +29,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 🥇 **Project: V-Hand 2.0 — A smart glove for the deaf people - Silent Voix** *(1st Prize, APEC Innovation 2026)*
 
-- **Goal:** Real-time sign language recognition via wearable glove, 8 gesture classes.
+- **Goal:** Real-time sign language recognition via wearable glove, 8 gesture classes for tesing and more for real time deployed.
 - **Tech:** ESP32-S3, MPU-6050 IMU, Flex Sensors, LSTM model, embedded MLP model .
 - **Status:** 1+ year in development (since May 2025); deployed and demoed, exploring microsurgery applications (tremor cancellation, motion scaling).
 
