@@ -27,7 +27,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 - **Tech:** PyTorch, TensorFlow/Keras, TensorFlowLite, INT8/Float32 Quantization, NNAPI, GradCam.
 - **Result:** 93.3% smaller (52.86MB → 3.52MB), ~22.5× faster inference, 86.2% accuracy (CV-verified, +7.4pp over no-KD).
 
-🥇 **Project: V-Hand 2.0 — A smart glove for the deaf people - Silent Voix** *(1st Prize, APEC Innovation 2026)*
+🥇 **Project: V-Hand 2.0 — A smart glove for the deaf people - [Silent Voix](https://github.com/lovelypoet/SilentVoix)** *(1st Prize, APEC Innovation 2026)*
 
 - **Goal:** Real-time sign language recognition via wearable glove, 8 gesture classes for tesing and more for real time deployed.
 - **Tech:** ESP32-S3, MPU-6050 IMU, Flex Sensors, LSTM model, embedded MLP model .
@@ -45,7 +45,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 ### 💼 Experience
 
-🏭 **AOI Engineer, Foxconn Industrial Internet Company** *1st globally in the AI server market* *(Internship, Apr – Jul 2026)* 
+🏭 **AOI Engineer, Foxconn Industrial Internet Company**-*1st globally in the AI server market* *(Internship, Apr – Jul 2026)* 
 
 - **Role:** Fine-tuned ML models on production AOI machines, repaired machines/conveyor systems, identified PCB defects on the line.
 - **Impact:** Direct inspiration for my thesis — saw firsthand what makes defect inspection hard to deploy at scale.
