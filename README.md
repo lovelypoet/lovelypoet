@@ -15,7 +15,7 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 - 🏭 Real factory-floor ML experience — fine-tuning inspection models on a live production line, not just notebooks
 - ⚡ Full-pipeline fluency: PyTorch/TensorFlow → TFLite/ONNX → on-device inference
 
-📫 contact for work : ducanh31052005@gmail.com
+📫 contact for work : ducanh3105.work@gmail.com
 
 ---
 
