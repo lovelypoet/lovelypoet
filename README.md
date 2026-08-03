@@ -56,8 +56,8 @@ Two different problems, same instinct: I don't stop at "it works" — I care abo
 
 - **ML/DL:** `PyTorch`, `TensorFlow`, `Computer Vision`, `NLP`, `Knowledge Distillation`
 - **Edge Deployment:** `TFLite`, `ONNX`, `INT8 Quantization`, `NNAPI`
-- **Embedded:** `ESP32-S3`, `Sensor Fusion`
-- **Languages:** `Python` (Advanced), `C++` (Intermediate)
+- **Embedded:** `ESP32-S3-supermini`, `Sensor Fusion`, RasberryPi, IMU, ESP32, Arduino
+- **Languages:** `Python` (Advanced), `C/C++` (Intermediate)
 
 ---
 ### 🗣️ Languages
