@@ -15,11 +15,11 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 
 **Different problems, same mindset:** I don't stop at *“it works”* — I care about making systems **fast, efficient, reliable, and deployable in the real world.**
 
-What I build:
--🔧 Embedded & IoT systems — C/C++, ESP32, sensors, real-time data acquisition and processing
--🤖 Edge AI systems — deploying optimized AI models on resource-constrained hardware-
--🦾 Hardware–software integration — wearable and robotic systems combining sensors, embedded hardware, and intelligent processing
--⚡ Performance optimization — Knowledge Distillation, INT8 quantization, model compression, and benchmarking
+**What I build:**
+- 🔧 Embedded & IoT systems — C/C++, ESP32, sensors, real-time data acquisition and processing
+- 🤖 Edge AI systems — deploying optimized AI models on resource-constrained hardware-
+- 🦾 Hardware–software integration — wearable and robotic systems combining sensors, embedded hardware, and intelligent processing
+- ⚡ Performance optimization — Knowledge Distillation, INT8 quantization, model compression, and benchmarking
 - 🏆 Long-term project ownership — built V-Hand end-to-end from prototype to national 1st place
 
 <!-- **What I bring:**
