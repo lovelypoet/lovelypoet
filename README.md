@@ -1,14 +1,15 @@
 ### 👋 Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me by "David" 👋
 
-🎯 **C/C++ Embedded Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
-**1+ year of hands-on experience** building and shipping embedded, IoT & Edge AI system projects.
+🎯 **AI Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
+**1+ year of hands-on experience** building and shipping Deep Learning, LLM, AI agents system along with IoT & Edge AI system projects.
 
-<!-- A fresher AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
+ A fresher AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
 I've always been interested in one question: how do you turn an idea into a reliable system that actually works in the real world?
 That question has shaped everything I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — from a rough idea into a national 1st-place product, iterating on hardware, sensor fusion, and real-time inference the whole way. In parallel, my time as an **AOI Engineer at Foxconn** put me face-to-face with production-line PCB inspection — which became the seed for my thesis: compressing a defect-detection model **15× smaller** so it could run in real time on a phone. 
 
-Two different problems, same instinct: I don't stop at "it works" — I care about making it fast, small, and shippable
--->
+**Two different problems, same instinct:** I don't stop at "it works" — I care about making it fast, small, and shippable
+
+<!-- 
 A fresher embedded engineer who's spent the last year obsessed with one question: **how do you turn an idea into a reliable system that actually works in the real world?**
 
 That question has shaped much of what I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — turning an early prototype into a national 1st-place product through continuous iteration on embedded hardware, sensor fusion, and real-time inference. Along the way, my experience as an **AOI Engineer at Foxconn** exposed me to real production-line PCB inspection, which later became the foundation of my thesis: compressing a defect-detection model **15× smaller** for real-time inference on mobile hardware.
@@ -21,13 +22,13 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 - 🦾 Hardware–software integration — wearable and robotic systems combining sensors, embedded hardware, and intelligent processing
 - ⚡ Performance optimization — Knowledge Distillation, INT8 quantization, model compression, and benchmarking
 - 🏆 Long-term project ownership — built V-Hand end-to-end from prototype to national 1st place
-
-<!-- **What I bring:**
+-->
+ **What I bring:**
 - 🗜️ Model compression & edge deployment — 15× smaller, 22× faster, minimal accuracy loss
 - 🤟 Long-term project ownership — 1+ year building V-Hand end-to-end, from prototype to national 1st place
 - 🏭 Real factory-floor ML experience — fine-tuning inspection models on a live production line, not just notebooks
 - ⚡ Full-pipeline fluency: PyTorch/TensorFlow → TFLite/ONNX → on-device inference
--->
+- 🏆 Long-term project ownership — built V-Hand end-to-end from prototype to national 1st place
 
 📫 contact for work : ducanh3105.work@gmail.com
 
@@ -67,16 +68,18 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 ---
 
 ### 🛠️ Technical Arsenal
-<!--
+
 - **ML/DL:** `PyTorch`, `TensorFlow`, `Computer Vision`, `NLP`, `Knowledge Distillation`
 - **Edge Deployment:** `TFLite`, `ONNX`, `INT8 Quantization`, `NNAPI`
 - **Embedded:** `ESP32-S3-supermini`, `Sensor Fusion`, RasberryPi, IMU, ESP32, Arduino
 - **Languages:** `Python` (Advanced), `C/C++` (Intermediate)
--->
+- **Development Tools:** Git, Bash/Linux, Docker, VS Code
+<!--
 - **Languages:** C/C++, Python, SQL
 - **Embedded & Systems:** Embedded Linux, ESP32, ESP32-S3, Arduino, Raspberry Pi, IMU, Sensor Fusion
 - **Edge AI:*** PyTorch, TensorFlow, TFLite, ONNX, Knowledge Distillation, INT8 Quantization, NNAPI
 - **Development Tools:** Git, Bash/Linux, Docker, VS Code
+-->
 ---
 ### 🗣️ Languages
 
@@ -91,8 +94,6 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 - 🎓 Consolation prize for USTH Reseach 2025
  " Giải khuyến khích cuộc thi Nghiên cứu khoa học USTH 2025"
 - 🎓 Top 20 đội thi xuất sắc cuộc thi TechXpro Challenge 2025 by VinTech
-<!--
 - 📊 A grade courses : Computer Vision, ML, Deep Learning, NLP, OOSAD | A+ grade course : Computer Graphics
--->
 ---
 
