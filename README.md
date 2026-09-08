@@ -3,7 +3,7 @@
 🎯 **AI Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
 **1+ year of hands-on experience** building and shipping Deep Learning, LLM, AI agents system along with IoT & Edge AI system projects.
 
- A fresher AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
+ A AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
 I've always been interested in one question: how do you turn an idea into a reliable system that actually works in the real world?
 That question has shaped everything I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — from a rough idea into a national 1st-place product, iterating on hardware, sensor fusion, and real-time inference the whole way. In parallel, my time as an **AOI Engineer at Foxconn** put me face-to-face with production-line PCB inspection — which became the seed for my thesis: compressing a defect-detection model **15× smaller** so it could run in real time on a phone. 
 
