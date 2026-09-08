@@ -69,7 +69,8 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 
 ### 🛠️ Technical Arsenal
 
-- **ML/DL:** `PyTorch`, `TensorFlow`, `Computer Vision`, `NLP`, `Knowledge Distillation`
+- **ML/DL:** `PyTorch`, `LangGraph`, `LLM`, `Computer Vision`, `NLP`, `Knowledge Distillation`
+- **Database:** `pgvector`, `chromaDB`, `PostgreSQL`
 - **Edge Deployment:** `TFLite`, `ONNX`, `INT8 Quantization`, `NNAPI`
 - **Embedded:** `ESP32-S3-supermini`, `Sensor Fusion`, RasberryPi, IMU, ESP32, Arduino
 - **Languages:** `Python` (Advanced), `C/C++` (Intermediate)
