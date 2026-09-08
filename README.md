@@ -1,6 +1,6 @@
 ### 👋 Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me by "David" 👋
 
-🎯 **AI Engineer** | Fresh Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
+🎯 **AI Engineer** | Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
 **1+ year of hands-on experience** building and shipping Deep Learning, LLM, AI agents system along with IoT & Edge AI system projects.
 
  A AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
