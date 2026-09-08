@@ -55,7 +55,7 @@ That question has shaped much of what I've built. Since **May 2025**, I've been 
 - **Result:** Compressed the NLLB-600M translation model down to 1.8GB via sequence-level KD + quantization.
 - **Status:** Built for Vietnam AI Innovation Challenge 2026.
 
-<sub> **Fact** There are more projects that i have done,  and participated in, some did teach me a lot of lessons like [CVMultimodal: Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal), [Re:CNN](https://github.com/TommyDatLC/ReCNN) or [Car Crash: Turbo Drive.](https://github.com/TommyDatLC/Project-L),  however the 3 projects above are by far the ones that I am most proud of. </sub>
+<sub> **Fact** There are more projects that i have done,  and participated in, some did teach me a lot of lessons like [CVMultimodal: Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal), [CareerOS_Multi-Agents for job fetching](https://github.com/lovelypoet/Multi-Agent_CareerOS-) or [Agent for Research Paper & Document Reader.](https://github.com/lovelypoet/PAPER-READER-AGENT),  however the 3 projects above are by far the ones that I am most proud of. </sub>
 ---
 
 ### 💼 Experience
