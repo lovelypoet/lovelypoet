@@ -111,9 +111,8 @@ These projects reflect my curiosity about how machine learning, language models,
 
 **Model Optimization & Edge AI**
 - Knowledge Distillation
-- INT8 / Float32 Quantization
 - Model Compression
-- TensorFlow Lite, ONNX, ONNX Runtime, NNAPI
+- Transfer Learning : Full finetuning, LoRa, tiny LoRa...
 
 **LLM & AI Engineering**
 - Large Language Models (LLMs)
@@ -126,11 +125,6 @@ These projects reflect my curiosity about how machine learning, language models,
 - REST API Development
 - PostgreSQL, SQL Server, pgvector, ChromaDB
 
-**Embedded Systems & Hardware**
-- ESP32 / ESP32-S3, Arduino, Raspberry Pi
-- IMU, Flex Sensors, Sensor Fusion
-- Real-time Data Acquisition and Processing
-
 **Development Tools & Infrastructure**
 - Git, GitHub, Bash, Linux
 - Docker, CUDA, VS Code, Jupyter Notebook
@@ -140,9 +134,8 @@ These projects reflect my curiosity about how machine learning, language models,
 ## 🏆 Awards & Achievements
 
 - 🥇 **1st Prize** — APEC Innovation National Competition 2026.
-- 🥉 **3rd Prize** — USTH Scientific Research Competition 2026.
 - 🏅 **Consolation Prize** — USTH Scientific Research Competition 2025.
-- 🏅 **3rd Prize** — USTH Innovation Competition 2026.
+- 🏅 **Top 10 Teams** — USTH Innovation Competition 2026.
 - 🎖️ **Top 20 Teams** — TechXpro Challenge 2025, by VinTech.
 - 📊 **Academic Excellence:** A grades in Computer Vision, Machine Learning, Deep Learning, NLP, and OOSAD; A+ in Computer Graphics.
 
