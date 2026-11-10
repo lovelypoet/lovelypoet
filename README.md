@@ -1,100 +1,190 @@
-### 👋 Hello there!!! Bonjour mon ami, I'm Duc Anh Nguyen or u can call me by "David" 👋
+# 👋 Hello there! Bonjour mon ami!
 
-🎯 **AI Engineer** | Graduate, B.Eng in ICT @ USTH · Vietnam 🇻🇳 |
-**1+ year of hands-on experience** building and shipping Deep Learning, LLM, AI agents system along with IoT & Edge AI system projects.
+I'm **Duc Anh Nguyen (David)** — a AI engineer from Vietnam 🇻🇳
 
- A AI engineer who's spent the last year obsessed with one question: **how do you take a model that works in a notebook and make it actually run in the real world?** 
-I've always been interested in one question: how do you turn an idea into a reliable system that actually works in the real world?
-That question has shaped everything I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — from a rough idea into a national 1st-place product, iterating on hardware, sensor fusion, and real-time inference the whole way. In parallel, my time as an **AOI Engineer at Foxconn** put me face-to-face with production-line PCB inspection — which became the seed for my thesis: compressing a defect-detection model **15× smaller** so it could run in real time on a phone. 
+🎓 **B.Eng in Information and Communication Technology @ USTH**
 
-**Two different problems, same instinct:** I don't stop at "it works" — I care about making it fast, small, and shippable
+🤖 **Machine Learning | Deep Learning | Computer Vision | Edge AI**
 
-<!-- 
-A fresher embedded engineer who's spent the last year obsessed with one question: **how do you turn an idea into a reliable system that actually works in the real world?**
+I have **1+ year of hands-on experience** building AI systems through university research, engineering competitions, and product-oriented development.
 
-That question has shaped much of what I've built. Since **May 2025**, I've been building **V-Hand** — a sign language recognition glove — turning an early prototype into a national 1st-place product through continuous iteration on embedded hardware, sensor fusion, and real-time inference. Along the way, my experience as an **AOI Engineer at Foxconn** exposed me to real production-line PCB inspection, which later became the foundation of my thesis: compressing a defect-detection model **15× smaller** for real-time inference on mobile hardware.
+I've always been fascinated by one question:
 
-**Different problems, same mindset:** I don't stop at *“it works”* — I care about making systems **fast, efficient, reliable, and deployable in the real world.**
+**How do you take a model that works in a notebook and make it actually work in the real world?**
 
-**What I build:**
-- 🔧 Embedded & IoT systems — C/C++, ESP32, sensors, real-time data acquisition and processing
-- 🤖 Edge AI systems — deploying optimized AI models on resource-constrained hardware-
-- 🦾 Hardware–software integration — wearable and robotic systems combining sensors, embedded hardware, and intelligent processing
-- ⚡ Performance optimization — Knowledge Distillation, INT8 quantization, model compression, and benchmarking
-- 🏆 Long-term project ownership — built V-Hand end-to-end from prototype to national 1st place
--->
- **What I bring:**
-- 🗜️ Model compression & edge deployment — 15× smaller, 22× faster, minimal accuracy loss
-- 🤟 Long-term project ownership — 1+ year building V-Hand end-to-end, from prototype to national 1st place
-- 🏭 Real factory-floor ML experience — fine-tuning inspection models on a live production line, not just notebooks
-- ⚡ Full-pipeline fluency: PyTorch/TensorFlow → TFLite/ONNX → on-device inference
-- 🏆 Long-term project ownership — built V-Hand end-to-end from prototype to national 1st place
+That question has shaped my engineering journey:
 
-📫 contact for work : ducanh3105.work@gmail.com
+- 🔬 **Machine Learning Research:** Developed and optimized deep learning models for PCB defect classification, achieving a **93.3% model size reduction** and approximately **22.5× faster inference**.
+- 🦾 **AI Product Development:** Built V-Hand, a wearable sign language recognition system, combining sensor fusion, time-series modeling, and embedded AI.
+- 🏭 **Industrial AI:** Worked with AOI inspection systems at Foxconn, gaining hands-on exposure to PCB defect detection in a real manufacturing environment.
+- 💻 **Software Engineering:** Gained professional experience at AvePoint, contributing to C#/.NET backend development, REST APIs, application services, and database integration.
+
+**My engineering philosophy:** I don't just want to build models that achieve good metrics. I want to understand the entire pipeline — from data processing and model development to optimization, integration, and deployment.
+
+📫 **Contact:** [ducanh3105.work@gmail.com](mailto:ducanh3105.work@gmail.com)
 
 ---
 
-### 🔭 Current Research & Projects
+## 🔭 Featured Research & Projects
 
-🎓 **Project: Knowledge Distillation for Edge Device in PCB Defect Classification (Thesis)**
+### 🎓 1. Knowledge Distillation for Edge Device in PCB Defect Classification
+*Undergraduate Thesis | Computer Vision & Edge AI*
 
-- **Goal:** Compress a PCB defect classification model for real-time inference on resource-constrained edge devices.
-- **Tech:** PyTorch, TensorFlow/Keras, TensorFlowLite, INT8/Float32 Quantization, NNAPI, GradCam.
-- **Result:** 93.3% smaller (52.86MB → 3.52MB), ~22.5× faster inference, 86.2% accuracy (CV-verified, +7.4pp over no-KD).
+**Goal:** Compress and optimize a deep learning model for PCB defect classification, enabling efficient inference on resource-constrained devices.
 
-🥇 **Project: V-Hand 2.0 — A smart glove for the deaf people - [Silent Voix](https://github.com/lovelypoet/SilentVoix)** *(1st Prize, APEC Innovation 2026)*
+- **Tech Stack:** Python, PyTorch, TensorFlow/Keras, CNN, Knowledge Distillation, TensorFlow Lite, INT8 Quantization, NNAPI, Grad-CAM.
+- **Approach:** Applied Knowledge Distillation to transfer knowledge from a larger teacher model into a lightweight student model, followed by quantization and deployment optimization.
+- **Results:**
+  - 📦 **93.3% smaller model:** 52.86 MB → 3.52 MB.
+  - ⚡ **~22.5× faster inference** compared with the original baseline.
+  - 🎯 **86.2% accuracy**, CV-verified, achieving a +7.4 percentage-point improvement over the no-KD baseline.
+- **Focus:** Model compression, inference optimization, and practical Edge AI deployment.
 
-- **Goal:** Real-time sign language recognition via wearable glove, 8 gesture classes for tesing and more for real time deployed.
-- **Tech:** ESP32-S3, MPU-6050 IMU, Flex Sensors, LSTM model, embedded MLP model .
-- **Status:** 1+ year in development (since May 2025); deployed and demoed, exploring microsurgery applications (tremor cancellation, motion scaling).
+### 🥇 2. V-Hand 2.0 — Smart Sign Language Recognition Glove
+*[SilentVoix](https://github.com/lovelypoet/SilentVoix) | 1st Prize, APEC Innovation National Competition 2026*
 
-🌉 **Project: VBridge — Real-time VI↔EN Speech Translator**
+**Goal:** Develop an intelligent wearable system that enables two-way communication between sign language users and non-signers.
 
-- **Goal:** On-device business meeting translator (VAD → ASR → MT → TTS), built for an Indonesian AI enterprise partner.
-- **Tech:** C++, Pytorch, TensorFlow/Keras, TensorFlowLite, Whisper.cpp, NLLB-600M, Sequence-level Knowledge Distillation, ONNX Runtime, INT8 Quantization.
-- **Result:** Compressed the NLLB-600M translation model down to 1.8GB via sequence-level KD + quantization.
-- **Status:** Built for Vietnam AI Innovation Challenge 2026.
+- **Tech Stack:** Python, PyTorch, LSTM, ESP32-S3, MPU-6050, Flex Sensors, Sensor Fusion, Embedded AI.
+- **Approach:** Combined IMU and flex sensor data to capture hand movements and recognize sign language gestures using time-series modeling.
+- **Implementation:** Developed the embedded hardware, sensor data acquisition pipeline, gesture recognition model, and real-time inference workflow.
+- **Status:** Developed iteratively since May 2025, progressing from an early prototype toward a functional wearable AI product.
+- **Achievement:** 🥇 First Prize at APEC Innovation National Competition 2026.
 
-<sub> **Fact** There are more projects that i have done,  and participated in, some did teach me a lot of lessons like [CVMultimodal: Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal), [CareerOS_Multi-Agents for job fetching](https://github.com/lovelypoet/Multi-Agent_CareerOS-) or [Agent for Research Paper & Document Reader.](https://github.com/lovelypoet/PAPER-READER-AGENT),  however the 3 projects above are by far the ones that I am most proud of. </sub>
+### 🌉 3. VBridge — Real-time VI↔EN Speech Translator
+*Vietnam AI Innovation Challenge 2026*
+
+**Goal:** Build a real-time, on-device speech translation system for multilingual business communication.
+
+- **Tech Stack:** C++, Python, PyTorch, TensorFlow/Keras, Whisper.cpp, NLLB-600M, ONNX Runtime, INT8 Quantization.
+- **Pipeline:** Voice Activity Detection (VAD) → Automatic Speech Recognition (ASR) → Machine Translation (MT) → Text-to-Speech (TTS).
+- **Approach:** Applied sequence-level Knowledge Distillation and quantization to optimize the NLLB-600M translation model.
+- **Result:** Compressed the translation model to approximately 1.8 GB.
+- **Focus:** Multimodal AI pipelines, model optimization, and on-device inference.
+
 ---
 
-### 💼 Experience
+## 💼 Professional Experience
 
-🏭 **AOI Engineer, Foxconn Industrial Internet Company**-*1st globally in the AI server market* *(Internship, Apr – Jul 2026)* 
+### 💻 Junior AI Engineer — AvePoint
+*Oct – Nov 2026*
 
-- **Role:** Fine-tuned ML models on production AOI machines, repaired machines/conveyor systems, identified PCB defects on the line.
-- **Impact:** Direct inspiration for my thesis — saw firsthand what makes defect inspection hard to deploy at scale.
+- Contributed to backend development using **C# and ASP.NET Core**.
+- Developed REST API endpoints and application services for an Attendance Management system.
+- Worked with a layered architecture: **API → Service → Repository → Database**.
+- Integrated database operations using SQL Server and implemented JWT-based authentication.
+- Contributed to chatbot backend development, focusing on API endpoints and service-layer logic.
+
+### 🏭 AOI Engineer — Foxconn Industrial Internet Company
+*Internship | Apr – Jul 2026*
+
+- Worked with Automated Optical Inspection (AOI) systems in a PCB manufacturing environment.
+- Fine-tuned machine learning models for PCB defect inspection on production AOI machines.
+- Gained practical exposure to industrial inspection workflows, PCB defect identification, and hardware troubleshooting.
+- Developed an understanding of real-world challenges in deploying and maintaining ML-based inspection systems.
+- This experience inspired my undergraduate thesis on Knowledge Distillation and model compression for resource-constrained devices.
 
 ---
 
-### 🛠️ Technical Arsenal
+## 🧪 Additional Projects & Exploration
 
-- **ML/DL:** `PyTorch`, `LangGraph`, `LLM`, `Computer Vision`, `NLP`, `Knowledge Distillation`
-- **Database:** `pgvector`, `chromaDB`, `PostgreSQL`
-- **Edge Deployment:** `TFLite`, `ONNX`, `INT8 Quantization`, `NNAPI`
-- **Embedded:** `ESP32-S3-supermini`, `Sensor Fusion`, RasberryPi, IMU, ESP32, Arduino
-- **Languages:** `Python` (Advanced), `C/C++` (Intermediate)
-- **Development Tools:** Git, Bash/Linux, Docker, VS Code
-<!--
-- **Languages:** C/C++, Python, SQL
-- **Embedded & Systems:** Embedded Linux, ESP32, ESP32-S3, Arduino, Raspberry Pi, IMU, Sensor Fusion
-- **Edge AI:*** PyTorch, TensorFlow, TFLite, ONNX, Knowledge Distillation, INT8 Quantization, NNAPI
-- **Development Tools:** Git, Bash/Linux, Docker, VS Code
--->
+I enjoy exploring different areas of AI beyond my core research interests. Some projects that have helped me expand my engineering perspective:
+
+- 🧠 [CVMultimodal — Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal): Exploring multimodal learning and vision-language fusion.
+- 🤖 [CareerOS — Multi-Agent Career Assistant](https://github.com/lovelypoet/Multi-Agent_CareerOS-): Exploring multi-agent architectures, LLM applications, and automated job discovery workflows.
+- 📚 [Paper Reader Agent](https://github.com/lovelypoet/PAPER-READER-AGENT): An AI agent for research paper and document understanding.
+
+These projects reflect my curiosity about how machine learning, language models, and software engineering can work together to solve practical problems.
+
 ---
-### 🗣️ Languages
 
-- 🇬🇧 English — IELTS 6.5
-- 🇫🇷 French — A2 ( un petit !!! )
+## 🛠️ Technical Arsenal
+
+**Programming Languages**
+- Python, C/C++, C#, SQL
+
+**Machine Learning & Deep Learning**
+- PyTorch, TensorFlow/Keras, Scikit-learn
+- CNN, LSTM, Transformers
+- Computer Vision, NLP, Time-series Modeling
+- NumPy, Pandas
+
+**Model Optimization & Edge AI**
+- Knowledge Distillation
+- INT8 / Float32 Quantization
+- Model Compression
+- TensorFlow Lite, ONNX, ONNX Runtime, NNAPI
+
+**LLM & AI Engineering**
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangGraph, AI Agents
+- Embedding Models, Vector Databases
+
+**Backend & Database**
+- ASP.NET Core, FastAPI
+- REST API Development
+- PostgreSQL, SQL Server, pgvector, ChromaDB
+
+**Embedded Systems & Hardware**
+- ESP32 / ESP32-S3, Arduino, Raspberry Pi
+- IMU, Flex Sensors, Sensor Fusion
+- Real-time Data Acquisition and Processing
+
+**Development Tools & Infrastructure**
+- Git, GitHub, Bash, Linux
+- Docker, CUDA, VS Code, Jupyter Notebook
+
+---
+
+## 🏆 Awards & Achievements
+
+- 🥇 **1st Prize** — APEC Innovation National Competition 2026.
+- 🥉 **3rd Prize** — USTH Scientific Research Competition 2026.
+- 🏅 **Consolation Prize** — USTH Scientific Research Competition 2025.
+- 🏅 **3rd Prize** — USTH Innovation Competition 2026.
+- 🎖️ **Top 20 Teams** — TechXpro Challenge 2025, by VinTech.
+- 📊 **Academic Excellence:** A grades in Computer Vision, Machine Learning, Deep Learning, NLP, and OOSAD; A+ in Computer Graphics.
+
+---
+
+## 🎓 Education
+
+**University of Science and Technology of Hanoi (USTH)**
+
+Bachelor of Engineering in Information and Communication Technology (ICT)
+
+- Focus areas: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
+- Undergraduate thesis: Knowledge Distillation for Edge Device in PCB Defect Classification.
+
+---
+
+## 🗣️ Languages
+
 - 🇻🇳 Vietnamese — Native
----
-### 🏆 Achievements
+- 🇬🇧 English — IELTS 6.5
+- 🇫🇷 French — A2 (*Un petit peu !*)
 
-- 🥇 1st Prize, APEC Innovation National Competition 2026
- " Giải nhất cuộc thi APEC Innovation challenge toàn quốc 2026"
-- 🎓 Consolation prize for USTH Reseach 2025
- " Giải khuyến khích cuộc thi Nghiên cứu khoa học USTH 2025"
-- 🎓 Top 20 đội thi xuất sắc cuộc thi TechXpro Challenge 2025 by VinTech
-- 📊 A grade courses : Computer Vision, ML, Deep Learning, NLP, OOSAD | A+ grade course : Computer Graphics
 ---
 
+## 🌱 Currently Exploring
+
+- Deep Learning architectures and modern Transformer-based models.
+- Machine Learning fundamentals, model evaluation, and data-centric AI.
+- LLM applications, RAG systems, and AI Agent architectures.
+- End-to-end ML engineering: from data pipelines and model training to production deployment.
+- Efficient inference and model optimization on resource-constrained devices.
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to discussing Machine Learning, Deep Learning, Computer Vision, Edge AI, and interesting engineering projects.
+
+If you're working on something exciting or looking for a passionate ML Engineer to collaborate with, feel free to reach out!
+
+📧 **Email:** [ducanh3105.work@gmail.com](mailto:ducanh3105.work@gmail.com)
+
+🌐 **GitHub:** [@lovelypoet](https://github.com/lovelypoet)
+
+**"Build things that work, understand why they work, and make them work better."** 🚀
