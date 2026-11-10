@@ -67,7 +67,7 @@ That question has shaped my engineering journey:
 ## 💼 Professional Experience
 
 ### 💻 Junior AI Engineer — AvePoint
-*Oct – Nov 2026*
+*Oct – Now 2026*
 
 - Contributed to backend development using **C# and ASP.NET Core**.
 - Developed REST API endpoints and application services for an Attendance Management system.
