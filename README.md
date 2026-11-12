@@ -6,21 +6,6 @@ I'm **Duc Anh Nguyen (David)** — a AI engineer from Vietnam 🇻🇳
 
 🤖 **Machine Learning | Deep Learning | Computer Vision | Edge AI**
 
-I have **1+ year of hands-on experience** building AI systems through university research, engineering competitions, and product-oriented development.
-
-I've always been fascinated by one question:
-
-**How do you take a model that works in a notebook and make it actually work in the real world?**
-
-That question has shaped my engineering journey:
-
-- 🔬 **Machine Learning Research:** Developed and optimized deep learning models for PCB defect classification, achieving a **93.3% model size reduction** and approximately **22.5× faster inference**.
-- 🦾 **AI Product Development:** Built V-Hand, a wearable sign language recognition system, combining sensor fusion, time-series modeling, and embedded AI.
-- 🏭 **Industrial AI:** Worked with AOI inspection systems at Foxconn, gaining hands-on exposure to PCB defect detection in a real manufacturing environment.
-- 💻 **Software Engineering:** Gained professional experience at AvePoint, contributing to C#/.NET backend development, REST APIs, application services, and database integration.
-
-**My engineering philosophy:** I don't just want to build models that achieve good metrics. I want to understand the entire pipeline — from data processing and model development to optimization, integration, and deployment.
-
 📫 **Contact:** [ducanh3105.work@gmail.com](mailto:ducanh3105.work@gmail.com)
 
 ---
