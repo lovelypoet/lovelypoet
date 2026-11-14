@@ -36,17 +36,6 @@ I'm **Duc Anh Nguyen (David)** — a AI engineer from Vietnam 🇻🇳
 - **Status:** Developed iteratively since May 2025, progressing from an early prototype toward a functional wearable AI product.
 - **Achievement:** 🥇 First Prize at APEC Innovation National Competition 2026.
 
-### 🌉 3. VBridge — Real-time VI↔EN Speech Translator
-*Vietnam AI Innovation Challenge 2026*
-
-**Goal:** Build a real-time, on-device speech translation system for multilingual business communication.
-
-- **Tech Stack:** C++, Python, PyTorch, TensorFlow/Keras, Whisper.cpp, NLLB-600M, ONNX Runtime, INT8 Quantization.
-- **Pipeline:** Voice Activity Detection (VAD) → Automatic Speech Recognition (ASR) → Machine Translation (MT) → Text-to-Speech (TTS).
-- **Approach:** Applied sequence-level Knowledge Distillation and quantization to optimize the NLLB-600M translation model.
-- **Result:** Compressed the translation model to approximately 1.8 GB.
-- **Focus:** Multimodal AI pipelines, model optimization, and on-device inference.
-
 ---
 
 ## 💼 Professional Experience
@@ -83,46 +72,13 @@ These projects reflect my curiosity about how machine learning, language models,
 
 ---
 
-## 🛠️ Technical Arsenal
-
-**Programming Languages**
-- Python, C/C++, C#, SQL
-
-**Machine Learning & Deep Learning**
-- PyTorch, TensorFlow/Keras, Scikit-learn
-- CNN, LSTM, Transformers
-- Computer Vision, NLP, Time-series Modeling
-- NumPy, Pandas
-
-**Model Optimization & Edge AI**
-- Knowledge Distillation
-- Model Compression
-- Transfer Learning : Full finetuning, LoRa, tiny LoRa...
-
-**LLM & AI Engineering**
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangGraph, AI Agents
-- Embedding Models, Vector Databases
-
-**Backend & Database**
-- ASP.NET Core, FastAPI
-- REST API Development
-- PostgreSQL, SQL Server, pgvector, ChromaDB
-
-**Development Tools & Infrastructure**
-- Git, GitHub, Bash, Linux
-- Docker, CUDA, VS Code, Jupyter Notebook
-
----
-
 ## 🏆 Awards & Achievements
 
 - 🥇 **1st Prize** — APEC Innovation National Competition 2026.
 - 🏅 **Consolation Prize** — USTH Scientific Research Competition 2025.
 - 🏅 **Top 10 Teams** — USTH Innovation Competition 2026.
 - 🎖️ **Top 20 Teams** — TechXpro Challenge 2025, by VinTech.
-- 📊 **Academic Excellence:** A grades in Computer Vision, Machine Learning, Deep Learning, NLP, and OOSAD; A+ in Computer Graphics.
+- 📊 **Academic Excellence:** A grades in Computer Vision, Machine Learning, Deep Learning, NLP, and OOSAD; A+ in Computer Graphics, Graph Theory.
 
 ---
 
