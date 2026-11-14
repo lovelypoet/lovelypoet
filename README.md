@@ -1,10 +1,10 @@
 # 👋 Hello there! Bonjour mon ami!
 
-I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen**  — ML/AI engineer from Vietnam 🇻🇳
+I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen** 🦇 — ML/AI engineer from Vietnam 🇻🇳
 
 🎓 **B.Eng in Information and Communication Technology @ USTH**
 
-💻 I code in **Python, C, C#, SQL and React**
+💻 I code in **Python, C, C#, SQL and React** - Sometime I still hand-coding =)), find fun in hand-coding stuff
 
 🤖 **Machine Learning | Deep Learning | Computer Vision | Edge AI**
 
