@@ -1,8 +1,10 @@
 # 👋 Hello there! Bonjour mon ami!
 
-I'm **Duc Anh Nguyen (David)** — a AI engineer from Vietnam 🇻🇳
+I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen**  — ML/AI engineer from Vietnam 🇻🇳
 
 🎓 **B.Eng in Information and Communication Technology @ USTH**
+
+💻 I code in **Python, C, C#, SQL and React**
 
 🤖 **Machine Learning | Deep Learning | Computer Vision | Edge AI**
 
@@ -72,7 +74,7 @@ These projects reflect my curiosity about how machine learning, language models,
 
 ---
 
-## 🏆 Awards & Achievements
+## 🏆 Awards & Achievements - Leader of the Year =))
 
 - 🥇 **1st Prize** — APEC Innovation National Competition 2026.
 - 🏅 **Consolation Prize** — USTH Scientific Research Competition 2025.
