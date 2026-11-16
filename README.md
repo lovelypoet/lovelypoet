@@ -62,17 +62,7 @@ I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen** 🦇 
 
 ---
 
-## 🧪 Additional Projects & Exploration
 
-I enjoy exploring different areas of AI beyond my core research interests. Some projects that have helped me expand my engineering perspective:
-
-- 🧠 [CVMultimodal — Vision and Language Fusion Framework](https://github.com/lystiger/CVMultimodal): Exploring multimodal learning and vision-language fusion.
-- 🤖 [CareerOS — Multi-Agent Career Assistant](https://github.com/lovelypoet/Multi-Agent_CareerOS-): Exploring multi-agent architectures, LLM applications, and automated job discovery workflows.
-- 📚 [Paper Reader Agent](https://github.com/lovelypoet/PAPER-READER-AGENT): An AI agent for research paper and document understanding.
-
-These projects reflect my curiosity about how machine learning, language models, and software engineering can work together to solve practical problems.
-
----
 
 ## 🏆 Awards & Achievements - Leader of the Year =))
 
