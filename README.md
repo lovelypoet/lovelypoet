@@ -39,31 +39,6 @@ I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen** 🦇 
 - **Achievement:** 🥇 First Prize at APEC Innovation National Competition 2026.
 
 ---
-
-## 💼 Professional Experience
-
-### 💻 Junior AI Engineer — AvePoint
-*Oct – Now 2026*
-
-- Contributed to backend development using **C# and ASP.NET Core**.
-- Developed REST API endpoints and application services for an Attendance Management system.
-- Worked with a layered architecture: **API → Service → Repository → Database**.
-- Integrated database operations using SQL Server and implemented JWT-based authentication.
-- Contributed to chatbot backend development, focusing on API endpoints and service-layer logic.
-
-### 🏭 AOI Engineer — Foxconn Industrial Internet Company
-*Internship | Apr – Jul 2026*
-
-- Worked with Automated Optical Inspection (AOI) systems in a PCB manufacturing environment.
-- Fine-tuned machine learning models for PCB defect inspection on production AOI machines.
-- Gained practical exposure to industrial inspection workflows, PCB defect identification, and hardware troubleshooting.
-- Developed an understanding of real-world challenges in deploying and maintaining ML-based inspection systems.
-- This experience inspired my undergraduate thesis on Knowledge Distillation and model compression for resource-constrained devices.
-
----
-
-
-
 ## 🏆 Awards & Achievements - Leader of the Year =))
 
 - 🥇 **1st Prize** — APEC Innovation National Competition 2026.
