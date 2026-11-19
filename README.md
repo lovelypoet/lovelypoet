@@ -45,14 +45,14 @@ I'm **Duc Anh Nguyen** or I would rather go with the name **Bruce Nguyen** 🦇 
 - 🏅 **Consolation Prize** — USTH Scientific Research Competition 2025.
 - 🏅 **Top 10 Teams** — USTH Innovation Competition 2026.
 - 🎖️ **Top 20 Teams** — TechXpro Challenge 2025, by VinTech.
+- 🎖️ **Top 30 Teams** — SIL Innovation Competition 2026, by Dai Nam University.
 - 📊 **Academic Excellence:** A grades in Computer Vision, Machine Learning, Deep Learning, NLP, and OOSAD; A+ in Computer Graphics, Graph Theory.
 
 ---
 
 ## 🎓 Education
 
-**University of Science and Technology of Hanoi (USTH)**
-
+**University of Science and Technology of Hanoi (USTH)**3
 Bachelor of Engineering in Information and Communication Technology (ICT)
 
 - Focus areas: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
